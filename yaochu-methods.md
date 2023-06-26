@@ -1,5 +1,8 @@
 ### Social Media as Fieldsite
 
+#### Data
+
+
 
 Although our choice of social media as the object of analysis is partially a result of the physical limitations China scholars had to face during the time of zero-Covid policy, including travel restrictions and political surveillance, social media as an ethnographic site also carries unique affordances that allowed us to examine daily expressions of field si
 
